@@ -41,7 +41,7 @@ Looking at the higher percentage results here: extravert, visual and openness. F
 
 <h2>Ideal Job:</h2> 
 
- 
+<img src="Job.JPG" alt="Ideal Job">
 
 https://www.seek.com.au/job/39206990?searchrequesttoken=c7cdd072-b360-4c42-b8df-7a272648a352&type=standout 
 
