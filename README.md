@@ -13,7 +13,7 @@ Hello and welcome to my profile. My name is Matthew Andrews. I was born in Austr
 <img src="riding.JPG" alt="Me, racing at Lakeside Raceway" width="310" height="280">
  
 
-<h3>Interest in IT:</h3> 
+<h2>Interest in IT:</h2> 
 
  
 
@@ -25,7 +25,7 @@ During my studies here, I hope to learn the different areas of what the field of
 
  
 
-<h4>Online occupational test results:</h4> 
+<h2>Online occupational test results:</h2> 
 
  
 
@@ -39,7 +39,7 @@ Looking at the higher percentage results here: extravert, visual and openness. F
 
  
 
-<h5>Ideal Job:</h5> 
+<h2>Ideal Job:</h2> 
 
  
 
@@ -55,7 +55,7 @@ I would rather apply for a position like this with high confidence in my ability
 
  
 
-<h5>Project Idea:</h5> 
+<h2>Project Idea:</h2> 
  
 
 My project idea is to utilise the Raspberry Pi’s on-board internet and Bluetooth connectivity to pair with a simple, specially made Android phone app, which will allow you to open and close your home garage door and adjust selected Bluetooth enabled interior lighting- from anywhere. This sort of project is something I would enjoy doing. I love to see the results of my efforts; doors opening for me and lights turning on and off automatically would give me some level of gratification knowing that I had made it do that. It is not only practical but also has an element of coding and programming that would be useful experience for a future occupation. 
@@ -75,7 +75,7 @@ If all these issues are overcome, we will have developed a simple but exciting, 
 
  
 
-<h6>References:</h6> 
+<h2>References:</h2> 
 
  
 
