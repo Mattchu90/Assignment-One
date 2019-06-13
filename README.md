@@ -1,5 +1,6 @@
 Personal Information: 
  
+<img src="silfie.jpg" alt="This is me!"
 
 Matthew Andrews 
 Student number: S3799255   
