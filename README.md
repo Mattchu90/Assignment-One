@@ -45,7 +45,7 @@ Looking at the higher percentage results here: extravert, visual and openness. F
 
 https://www.seek.com.au/job/39206990?searchrequesttoken=c7cdd072-b360-4c42-b8df-7a272648a352&type=standout 
 
-Communications Technician 
+<h6>Communications Technician</h6> 
 
 My ideal job at this point in time is to become a Communications Technician. Specifically, in this case- one that does “FIFO” or fly in fly out work, with a roster of 7 days on 7 days off. The work carried out is the maintenance of communications infrastructure within the mining industry. I enjoy hands on work and lots of variations in the tasks required of me and I believe this job would be enjoyable. I would also like to have a week off after every week of hard work.  
 This position; requires I work above and below ground, diagnose systems and conduct fault investigations providing corrective or preventative measures, develop and maintain communications and support engineers and fellow technicians. 
