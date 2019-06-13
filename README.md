@@ -1,4 +1,4 @@
-Personal Information: 
+<h1>Matthew Andrews</h1>
  
 <img src="selfie.JPG" alt="This is me!" width="300" height="300">
 
