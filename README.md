@@ -1,6 +1,6 @@
 Personal Information: 
  
-<img src="selfie.JPG" alt="This is me!" width="250" height="250">
+<img src="selfie.JPG" alt="This is me!" width="300" height="300">
 
 Matthew Andrews 
 Student number: S3799255   
@@ -10,7 +10,7 @@ Email: S3799255@student.rmit.edu.au
 
 Hello and welcome to my profile. My name is Matthew Andrews. I was born in Australia, where all of my English-speaking family have lived for many generations. I grew up mostly in Brisbane, Queensland where I attended several different schools due to my father moving between jobs. Before taking this course with RMIT through Open Universities Australia, my highest level of education was grade 10 with Brisbane School of Distance Education. My distance education was due to the amount of hobbies I had when I was young. I rode horses, played drums, created electronic music on sound-cloud, skated and raced road bikes (pedal power)- which I still do to this day competitively.  
 
-<img src="riding.JPG" alt="Me, racing at Lakeside Raceway" width="300" height="200">
+<img src="riding.JPG" alt="Me, racing at Lakeside Raceway" width="300" height="270">
  
 
 Interest in IT: 
