@@ -6,14 +6,14 @@ Matthew Andrews
 Student number: S3799255   
 Email: S3799255@student.rmit.edu.au 
 
- 
+ <h2>Personal Information</h2>
 
 Hello and welcome to my profile. My name is Matthew Andrews. I was born in Australia, where all of my English-speaking family have lived for many generations. I grew up mostly in Brisbane, Queensland where I attended several different schools due to my father moving between jobs. Before taking this course with RMIT through Open Universities Australia, my highest level of education was grade 10 with Brisbane School of Distance Education. My distance education was due to the amount of hobbies I had when I was young. I rode horses, played drums, created electronic music on sound-cloud, skated and raced road bikes (pedal power)- which I still do to this day competitively.  
 
 <img src="riding.JPG" alt="Me, racing at Lakeside Raceway" width="310" height="280">
  
 
-Interest in IT: 
+<h3>Interest in IT:</h3> 
 
  
 
@@ -25,7 +25,7 @@ During my studies here, I hope to learn the different areas of what the field of
 
  
 
-Online occupational test results: 
+<h4>Online occupational test results:</h4> 
 
  
 
@@ -39,7 +39,7 @@ Looking at the higher percentage results here: extravert, visual and openness. F
 
  
 
-Ideal Job: 
+<h5>Ideal Job:</h5> 
 
  
 
@@ -55,7 +55,7 @@ I would rather apply for a position like this with high confidence in my ability
 
  
 
-Project Idea: 
+<h5>Project Idea:</h5> 
  
 
 My project idea is to utilise the Raspberry Pi’s on-board internet and Bluetooth connectivity to pair with a simple, specially made Android phone app, which will allow you to open and close your home garage door and adjust selected Bluetooth enabled interior lighting- from anywhere. This sort of project is something I would enjoy doing. I love to see the results of my efforts; doors opening for me and lights turning on and off automatically would give me some level of gratification knowing that I had made it do that. It is not only practical but also has an element of coding and programming that would be useful experience for a future occupation. 
@@ -75,7 +75,7 @@ If all these issues are overcome, we will have developed a simple but exciting, 
 
  
 
-References: 
+<h6>References:</h6> 
 
  
 
