@@ -35,7 +35,7 @@ Learning Style Test (EducationPlanner.org 2019, “What’s Your Learning Style?
 
 Big Five Personality Test (Truity 2017, The Big Five Personality Test”): Openness 87.5%, Conscientiousness 35%, Extraversion and Agreeableness 62.5%, Neuroticism 25% 
 
-Looking at the higher percentage results here: extravert, visual and openness. For me these qualities are quite accurate. I’m talkative, outgoing and creative. I make friends easily and have a lot to say. My hobbies such as making electronic music or playing drums imply some level of creativity. As an ENFP personality working in a team, I would be very communicative with everyone and would have lots of idea as to how to tackle our tasks. My motivation may faulter when it comes to mundane details and work that restricts my creativity. However, due to my higher level of agreeableness and feeling, I am unlikely to cause any conflict in a team as I avoid arguments and prefer to connect with people. 
+Looking at the higher percentage results here: extravert, visual and openness. For me these qualities are quite accurate. I’m talkative, outgoing and creative. I make friends easily and have a lot to say. My hobbies such as making electronic music or playing drums imply some level of creativity. As an ENFP personality working in a team, I would be very communicative with everyone and would have lots of idea as to how to tackle our tasks. My motivation may falter when it comes to mundane details and work that restricts my creativity. However, due to my higher level of agreeableness and feeling, I am unlikely to cause any conflict in a team as I avoid arguments and prefer to connect with people. 
 
  
 
@@ -86,11 +86,11 @@ If all these issues are overcome, we will have developed a simple but exciting, 
 
 Apple Inc. 2019, Your home at your command, Apple Inc., viewed 10 June 2019, <https://www.apple.com/ios/home/>. 
 
-Marshall, C 2017, What is smart lighting? Everything you need to know for your connected home, Techradar, viewed 10 June 2019, <https://www.techradar.com/au/news/what-is-smart-lighting-everything-you-need-to-know-for-your-connected-home>. 
+EducationPlanner.org 2019, What’s your learning style? Pennsylvania Higher Education Assistance Agency, viewed 11 June 2019, <http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml> 
 
 Humanmetrics 2019, Jung Typology Test, Humanmetrics Inc., viewed 11 June 2019, <http://www.humanmetrics.com/cgi-win/jtypes2.asp> 
 
-EducationPlanner.org 2019, What’s Your Learning Style? Pennsylvania Higher Education Assistance Agency, viewed 11 June 2019, <http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml> 
+Marshall, C 2017, What is smart lighting? Everything you need to know for your connected home, Techradar, viewed 10 June 2019, <https://www.techradar.com/au/news/what-is-smart-lighting-everything-you-need-to-know-for-your-connected-home>. 
 
 Truity 2017, The Big Five Personality Test, Truity, viewed 11 June 2019, <https://www.truity.com/test/big-five-personality-test> 
 
